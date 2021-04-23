@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="preconfig-nedelec", # Replace with your own username
+    name="preconfig", # Replace with your own username
     version="1.0",
     author="Francois Nedelec",
     author_email="francois.nedelec@slcu.cam.ac.uk",
